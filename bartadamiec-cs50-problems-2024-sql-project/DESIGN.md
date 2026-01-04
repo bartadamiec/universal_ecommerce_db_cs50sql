@@ -2,8 +2,6 @@
 
 By Bartłomiej Adamiec
 
-Video overview: <[URL HERE](https://youtu.be/iZbey_y7Qc8)>
-
 ## Scope
 
 ### Purpose
